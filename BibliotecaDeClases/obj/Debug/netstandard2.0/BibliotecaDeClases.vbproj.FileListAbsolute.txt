@@ -1,0 +1,9 @@
+C:\Users\Mikel Iturria\source\repos\BibliotecaDeClases\BibliotecaDeClases\bin\Debug\netstandard2.0\BibliotecaDeClases.deps.json
+C:\Users\Mikel Iturria\source\repos\BibliotecaDeClases\BibliotecaDeClases\bin\Debug\netstandard2.0\BibliotecaDeClases.dll
+C:\Users\Mikel Iturria\source\repos\BibliotecaDeClases\BibliotecaDeClases\bin\Debug\netstandard2.0\BibliotecaDeClases.pdb
+C:\Users\Mikel Iturria\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\netstandard2.0\BibliotecaDeClases.vbprojAssemblyReference.cache
+C:\Users\Mikel Iturria\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\netstandard2.0\BibliotecaDeClases.AssemblyInfoInputs.cache
+C:\Users\Mikel Iturria\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\netstandard2.0\BibliotecaDeClases.AssemblyInfo.vb
+C:\Users\Mikel Iturria\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\netstandard2.0\BibliotecaDeClases.vbproj.CoreCompileInputs.cache
+C:\Users\Mikel Iturria\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\netstandard2.0\BibliotecaDeClases.dll
+C:\Users\Mikel Iturria\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\netstandard2.0\BibliotecaDeClases.pdb
